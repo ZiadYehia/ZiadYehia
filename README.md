@@ -52,10 +52,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ZiadYehia&show_icons=true&theme=tokyonight&count_private=true" height="220" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ZiadYehia&show_icons=true&theme=tokyonight&count_private=true&custom_title=Ziad%20Yehia's%20GitHub%20Stats" height="220" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadYehia&theme=tokyonight" height="220" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadYehia&theme=tokyonight&hide_border=false" height="220" />
     </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiadYehia&theme=tokyo-night&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiadYehia&theme=tokyo-night&area=true&custom_title=Ziad%20Yehia's%20Activity%20Graph" />
 </p>
 
 ---
