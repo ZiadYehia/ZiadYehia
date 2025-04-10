@@ -46,7 +46,7 @@
 </p>
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <table align="center">
@@ -86,7 +86,7 @@
 | [BugBuster](https://github.com/ZiadYehia/bugbuster) | Bug tracker and logger | Postman, JIRA |
 
 ---
-
+-->
 ## 🎓 Certifications
 
 - 🏆 **ISTQB® Certified Tester – Foundation Level** *(Coming Soon)*
@@ -103,9 +103,6 @@
   </a>
   <a href="mailto:ziad.m.yehia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ziad.m.yehia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/ziad.mohamed.52056">
-    <img src="https://img.shields.io/badge/Facebook-Ziad%20Yehia-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
 </p>
