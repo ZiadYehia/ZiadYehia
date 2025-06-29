@@ -89,8 +89,8 @@
 -->
 ## 🎓 Certifications
 
-- 🏆 **ISTQB® Certified Tester – Foundation Level** *(Coming Soon)*
-- 🧠 **Full Software Testing Bootcamp by NezamAcademy** *(Coming Soon)*
+- 🏆 **ISTQB® Certified Tester – Foundation Level** 
+- 🧠 **Full Software Testing Bootcamp by NezamAcademy** 
 - 📁 [View All Certificates](https://drive.google.com/drive/u/0/folders/1G5jK_XNigCxaZj7JMloQHlTwa1VgbfK5)
 
 ---
